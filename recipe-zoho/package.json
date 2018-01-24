@@ -1,0 +1,14 @@
+{
+  "id": "Zoho",
+  "name": "Zoho",
+  "version": "1.0.0",
+  "description": "Zoho",
+  "main": "index.js",
+  "author": "Andre Bacao <andre@bacao.pt>",
+  "license": "MIT",
+  "repository": "https://github.com/abacao/meetfranz/recipe-zoho",
+  "config": {
+    "serviceURL": "https://www.zoho.com/mail/login.html",
+    "hasNotificationSound": true
+  }
+}
